@@ -1,7 +1,7 @@
 # planetRing v3_x
 dmx stepper motor control
 by ryan h
-silovsky studios 2021
+for silovsky studios 2021
 
 created for Lux Phantasmatis / Pavel Zustiak and Keith Skretch
 
