@@ -3,11 +3,11 @@ dmx stepper motor control
 by ryan h\
 for silovsky studios 2021
 
-Lux Phantasmatis / Pavel Zustiak and Keith Skretch\
+Lux Phantasmatis / Pavel Zustiak and Keith Skretch
 
 Please refer to the included information guide for setup and use examples
 
-Arduino Uno\
+Arduino Uno
 
 DMX shield: https://www.digikey.com/en/products/detail/dfrobot/DFR0260/7087143 \
 Dmx Serial Library: https://github.com/mathertel/DMXSerial \
